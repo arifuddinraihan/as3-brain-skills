@@ -3,3 +3,7 @@
 .text-bgc{
     background-color: rgba(29, 29, 29, 0.7);
 }
+
+.filter{
+    filter: brightness(60%);
+}
